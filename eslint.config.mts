@@ -29,4 +29,12 @@ export default defineConfig(
 		},
 	},
 	...obsidianmd.configs.recommended,
+	{
+		// Test doubles stand in for Obsidian types; there is no real TFile to
+		// narrow with `instanceof` outside the app.
+		files: ['**/*.test.ts'],
+		rules: {
+			'obsidianmd/no-tfile-tfolder-cast': 'off',
+		},
+	},
 );
