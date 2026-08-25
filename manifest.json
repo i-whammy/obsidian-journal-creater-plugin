@@ -2,8 +2,8 @@
 	"id": "obsidian-journal-creater-plugin",
 	"name": "Journal Creater",
 	"version": "1.0.0",
-	"minAppVersion": "1.0.0",
-	"description": "Creates a timestamped journal page in the vault root.",
+	"minAppVersion": "1.5.7",
+	"description": "Creates a timestamped journal page in a folder of your choice.",
 	"author": "i-whammy",
 	"isDesktopOnly": false
 }
