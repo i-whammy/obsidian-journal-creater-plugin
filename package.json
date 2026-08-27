@@ -1,6 +1,6 @@
 {
-	"name": "obsidian-journal-creater-plugin",
-	"version": "1.0.1",
+	"name": "journal-creater",
+	"version": "1.0.s",
 	"description": "Obsidian plugin that creates a timestamped journal page in a folder of your choice.",
 	"main": "main.js",
 	"type": "module",
