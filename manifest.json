@@ -1,7 +1,7 @@
 {
 	"id": "journal-creater",
 	"name": "Journal Creater",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"minAppVersion": "1.5.7",
 	"description": "Creates a timestamped journal page in a folder of your choice.",
 	"author": "i-whammy",

@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.1.0
+
+### Added
+
+- **Folder picker for the journal folder setting** — the setting now offers your vault's
+  folders instead of a plain text field, so `journal/2026` can be selected rather than typed.
+- The setting is indexed by Obsidian's settings search, so searching for "journal" in
+  **Settings** finds it without browsing to **Community plugins → Journal Creater**.
+
+### Changed
+
+- On Obsidian 1.13 and later, the settings tab is rendered from a declarative description of
+  the setting rather than being built by hand. Older releases keep the previous settings tab.
+
+### Notes
+
+- Nothing to do after updating: the folder you already chose is preserved, and the plugin
+  still requires only Obsidian 1.5.7 or later.
+
 ## 1.0.1
 
 ### Added
